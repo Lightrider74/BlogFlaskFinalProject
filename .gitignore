@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-venv/
-.idea/
-*.log
-*.env
-app/static/profile_photos/
-app/static/post_photos/
-migrations/
